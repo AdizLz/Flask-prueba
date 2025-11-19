@@ -1,0 +1,75 @@
+{
+  "empresa": {
+    "nombre": "TechSolutions SA",
+    "descripcion": "Empresa líder en soluciones tecnológicas y desarrollo de software",
+    "fundacion": "2015",
+    "sector": "Tecnología de la Información"
+  },
+  "servicios": {
+    "desarrollo_software": {
+      "descripcion": "Desarrollo de aplicaciones web y móviles personalizadas",
+      "tecnologias": ["Python", "JavaScript", "React", "Flask", "Django"],
+      "tiempo_promedio": "2-6 meses",
+      "precio_desde": 5000
+    },
+    "consultoria_it": {
+      "descripcion": "Asesoría tecnológica y arquitectura de sistemas",
+      "areas": ["Infraestructura", "Seguridad", "Cloud Computing", "DevOps"],
+      "precio_por_hora": 150
+    },
+    "mantenimiento": {
+      "descripcion": "Mantenimiento y soporte técnico de sistemas existentes",
+      "modalidades": ["24/7", "Horario comercial", "Por incidencias"],
+      "precio_mensual_desde": 800
+    },
+    "hosting_cloud": {
+      "descripcion": "Servicios de hosting en la nube con alta disponibilidad",
+      "proveedores": ["AWS", "Azure", "Google Cloud"],
+      "uptime_garantizado": "99.9%"
+    }
+  },
+  "contacto": {
+    "telefono": "+1 (555) 123-4567",
+    "email": "contacto@techsolutions.com",
+    "direccion": "Av. Tecnológica 123, Ciudad Tech, CP 12345",
+    "whatsapp": "+1 (555) 987-6543"
+  },
+  "horarios": {
+    "atencion_comercial": {
+      "lunes_viernes": "9:00 - 18:00",
+      "sabados": "9:00 - 14:00",
+      "domingos": "Cerrado"
+    },
+    "soporte_tecnico": {
+      "lunes_viernes": "8:00 - 20:00",
+      "fines_semana": "10:00 - 16:00",
+      "urgencias": "24/7"
+    }
+  },
+  "equipo": {
+    "desarrolladores": 25,
+    "consultores": 8,
+    "soporte": 5,
+    "experiencia_promedio": "7 años"
+  },
+  "certificaciones": [
+    "ISO 27001 (Seguridad de la Información)",
+    "AWS Partner",
+    "Microsoft Gold Partner",
+    "Agile Certified"
+  ],
+  "metodologias": [
+    "Scrum",
+    "Kanban", 
+    "DevOps",
+    "CI/CD"
+  ],
+  "sectores_atendidos": [
+    "Fintech",
+    "E-commerce",
+    "Salud",
+    "Educación",
+    "Manufactura",
+    "Retail"
+  ]
+}

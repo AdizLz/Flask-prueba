@@ -1,0 +1,65 @@
+{
+  "respuestas_frecuentes": {
+    "precios": {
+      "pregunta": "¿Cuánto cuesta desarrollar una aplicación web?",
+      "respuesta": "El precio de desarrollo de una aplicación web varía según la complejidad. Proyectos básicos desde $5,000, aplicaciones medianas entre $10,000-$25,000, y sistemas complejos desde $30,000. Ofrecemos cotización gratuita tras análisis de requerimientos."
+    },
+    "tiempos": {
+      "pregunta": "¿Cuánto tiempo toma desarrollar un proyecto?",
+      "respuesta": "Los tiempos varían según el alcance: aplicaciones simples 2-3 meses, proyectos medianos 3-6 meses, sistemas complejos 6-12 meses. Trabajamos con metodologías ágiles para entregas iterativas y mayor flexibilidad."
+    },
+    "tecnologias": {
+      "pregunta": "¿Qué tecnologías utilizan?",
+      "respuesta": "Utilizamos tecnologías modernas: Python (Flask/Django), JavaScript (React/Vue), bases de datos (PostgreSQL/MongoDB), cloud (AWS/Azure), DevOps (Docker/Kubernetes). Seleccionamos la stack óptima según cada proyecto."
+    },
+    "mantenimiento": {
+      "pregunta": "¿Ofrecen mantenimiento después del desarrollo?",
+      "respuesta": "Sí, ofrecemos planes de mantenimiento desde $800/mes que incluyen: actualizaciones de seguridad, backup automático, monitoreo 24/7, soporte técnico y pequeñas mejoras. También disponemos de soporte por incidencias."
+    },
+    "garantia": {
+      "pregunta": "¿Qué garantía ofrecen en sus desarrollos?",
+      "respuesta": "Ofrecemos 6 meses de garantía gratuita post-entrega que cubre corrección de bugs y problemas de funcionamiento. No incluye nuevas funcionalidades o cambios de requerimientos."
+    },
+    "metodologia": {
+      "pregunta": "¿Cómo es su proceso de trabajo?",
+      "respuesta": "Trabajamos con metodologías ágiles (Scrum/Kanban): análisis inicial, sprints de desarrollo, entregas parciales cada 2 semanas, feedback constante del cliente, y ajustes iterativos. Garantizamos transparencia total del proceso."
+    },
+    "equipo": {
+      "pregunta": "¿Quién trabajará en mi proyecto?",
+      "respuesta": "Asignamos equipos especializados: Project Manager dedicado, desarrolladores senior (7+ años experiencia), QA tester, y consultor técnico. El equipo se define según la complejidad y tecnologías del proyecto."
+    },
+    "pagos": {
+      "pregunta": "¿Cómo son las formas de pago?",
+      "respuesta": "Manejamos pagos por hitos: 30% al inicio, 40% en entrega del MVP, 30% en entrega final. Aceptamos transferencias bancarias, cheques y pagos en línea. Ofrecemos facilidades para proyectos grandes."
+    },
+    "hosting": {
+      "pregunta": "¿Incluyen hosting y dominio?",
+      "respuesta": "El hosting no está incluido en el desarrollo, pero ofrecemos servicios de hosting en cloud con 99.9% uptime desde $50/mes. Podemos gestionar la compra de dominios y configuración completa de infraestructura."
+    },
+    "soporte": {
+      "pregunta": "¿Qué tipo de soporte técnico brindan?",
+      "respuesta": "Ofrecemos soporte comercial L-V 9-18h, soporte técnico L-V 8-20h y fines de semana 10-16h. Para urgencias críticas disponemos de servicio 24/7. Primera consulta siempre gratuita."
+    },
+    "seguridad": {
+      "pregunta": "¿Cómo garantizan la seguridad de los datos?",
+      "respuesta": "Implementamos las mejores prácticas de seguridad: encriptación de datos, autenticación robusta, auditorías regulares, backups automáticos y cumplimos ISO 27001. Todos los desarrolladores firman NDAs estrictos."
+    },
+    "covid": {
+      "pregunta": "¿Trabajan de forma remota?",
+      "respuesta": "Sí, tenemos un modelo híbrido exitoso. Podemos trabajar 100% remoto o combinar reuniones presenciales según preferencia del cliente. Utilizamos herramientas colaborativas profesionales para garantizar comunicación fluida."
+    }
+  },
+  "keywords_mapping": {
+    "precio": ["precio", "costo", "cuanto", "cotizacion", "presupuesto", "valor", "tarifa"],
+    "tiempo": ["tiempo", "duracion", "cuanto demora", "plazo", "cronograma", "entrega"],
+    "tecnologia": ["tecnologia", "lenguaje", "framework", "herramientas", "stack", "programacion"],
+    "mantenimiento": ["mantenimiento", "soporte", "actualizacion", "mantencion", "updates"],
+    "garantia": ["garantia", "warranty", "aseguramiento", "respaldo"],
+    "metodologia": ["metodologia", "proceso", "trabajo", "scrum", "agile", "desarrollo"],
+    "equipo": ["equipo", "team", "desarrolladores", "quien", "personal"],
+    "pago": ["pago", "forma de pago", "financiamiento", "cuotas"],
+    "hosting": ["hosting", "servidor", "dominio", "infraestructura", "cloud"],
+    "seguridad": ["seguridad", "proteccion", "datos", "privacidad", "iso"],
+    "remoto": ["remoto", "distancia", "virtual", "online", "covid"]
+  }
+}
